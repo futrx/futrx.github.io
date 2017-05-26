@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to calm Down
+title: How to control Over-Thinking
 ---
 
 The most obvious way to improve yourself is through controlling yourself. Many a times during a day you will find yourself flown away in feelings and doing things you wouldn't even dream in your conscious state. But worry not we are here to train you to stop and reconsider your actions. And to help you control anger fear and much more.
@@ -13,4 +13,4 @@ But, there is a huge disadvantage of over-thinking. We form opinions on theories
 
 ## Try _thinking_ less And _doing_ more
 
-But how can we escape the trap of thinking too much. First, try not to jump to conclusions too quickly. Often, people jump to one of the many possible explanations of an event, discarding all the other equally possible or sometimes more probable alternatives. 
+But how can we escape the trap of thinking too much. First, try not to jump to conclusions too quickly. Often, people jump to one of the many possible explanations of an event, discarding all the other equally possible or sometimes more probable alternatives.
