@@ -8,7 +8,8 @@ Hi, Gentle-People (Homo Sapiens). This is @xypnox aka Aditya, and we are FutrX. 
 
 ***
 
-Waking up by the clarion call from the divine for alarming degradation of the affluency of the intelligence today’s humanoids encumbrance of, me @evi1haxor *aka* **Archit Dwivedi**, on behalf of team FutrX, hereby announce the bewitching composure that we, here gonna vacillate. May we be ennobled!
+Waking up by the clarion call from the divine for alarming degradation of the affluency of the intelligence, today’s humanoids encumbrance of, me @evi1haxor *aka* **Archit Dwivedi**, on behalf of team FutrX, hereby announce the bewitching composure that we, here gonna vacillate. May we be ennobled!
+
 Cheers!  
 
 
