@@ -8,6 +8,6 @@ We are Awesome
 
 ### Contact Us
 
-- [@xypnox](http://t.me/xypnox)
-- [@evi1haxor](http://t.me/evi1haxor)
-- [@sgrmshrsm7](http://t.me/sgrmshrsm7)
+- [@xypnox](http://github.com/xypnox)
+- [@evi1haxor](http://github.com/evi1haxor)
+- [@sgrmshrsm7](http://github.com/sgrmshrsm7)
