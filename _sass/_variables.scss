@@ -10,7 +10,7 @@ $blueGray: rgb(25, 110, 97);
 // Grays
 $black: #000;
 $darkerGray: #201e1b;
-$darkGray: #585858;
+$darkGray: #5d5d5d;
 $gray: #656565;
 $lightGray: #e8e8e8;
 $white: #fff;
@@ -21,8 +21,7 @@ $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 $fancy: 'Audiowide', cursive;
-
-$garamond: 'Cormorant Garamond', serif;
+$content-font: 'Merriweather', serif;
 
 // Mobile breakpoints
 @mixin mobile {
