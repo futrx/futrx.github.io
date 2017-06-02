@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg4152"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 64 64"
+   sodipodi:docname="logo-futrx.svg"
+   inkscape:export-filename="/home/adi/Projects/futxr/futrx.github.io/images/logo-futrx-140.png"
+   inkscape:export-xdpi="196.875"
+   inkscape:export-ydpi="196.875">
+  <defs
+     id="defs4154">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4746">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.12352941"
+         offset="0"
+         id="stop4748" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4750" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4712">
+      <stop
+         style="stop-color:#0068b8;stop-opacity:1"
+         offset="0"
+         id="stop4714" />
+      <stop
+         style="stop-color:#73d9ee;stop-opacity:1"
+         offset="1"
+         id="stop4716" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4712"
+       id="linearGradient4718"
+       x1="10.007646"
+       y1="54.485626"
+       x2="36.826992"
+       y2="22.56407"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74940359,0,0,0.76994383,8.8307643,5.4542104)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4746"
+       id="linearGradient4752"
+       x1="16"
+       y1="24"
+       x2="51.011471"
+       y2="68.307793"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74940359,0,0,0.76994383,8.8307643,5.4542104)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.9809603"
+     inkscape:cx="-6.3606153"
+     inkscape:cy="11.949499"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="874"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4700"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:url(#linearGradient4752);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 14.825993,48.571065 26.885201,67.382416 56.861344,61.222866 62.856573,42.744214 50.797365,23.932862 44.870887,30.425113 32.811679,11.613761 20.821222,23.932862 Z"
+       id="path4744"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#linearGradient4718);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.811679,11.613761 -11.990457,12.319101 -5.995229,24.638203 29.976144,-6.159551 5.995228,-18.478652 -11.990457,12.319102 -11.990458,0 0,-12.319102 z"
+       id="path4702"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
