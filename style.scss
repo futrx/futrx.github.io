@@ -19,13 +19,13 @@ html {
 
 body {
   background: $white;
-  font: 22px/1.4 $content-font;
+  font: 20px/1.4 $content-font;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 760px;
+  max-width: 700px;
   padding: 0 10px;
   width: 100%;
 }
@@ -66,8 +66,9 @@ h4 {
 p {
   margin: 20px 0;
   font-weight: lighter;
+  line-height: 1.5;
   @include mobile {
-    font-size: 80%;
+    font-size: 70%;
   }
 }
 
@@ -160,9 +161,10 @@ img {
 }
 
 .masthead {
-  padding: 40px 0;
+  padding: 120px 0px 40px 0px;
 
   @include mobile {
+    padding: 60px 0px 30px 0px;  
     text-align: center;
   }
 }
@@ -267,8 +269,8 @@ footer {
 }
 
 .site-avatar {
-    width: 140px;
-    height: 140px;
+    width: 256px;
+    height: 256px;
 
     @include mobile {
         float: none;
