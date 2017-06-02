@@ -24,7 +24,7 @@ $rochester: 'Rochester', cursive;
 
 // Mobile breakpoints
 @mixin mobile {
-  @media screen and (max-width: 640px) {
+  @media screen and (orientation: portrait) {
     @content;
   }
 }
