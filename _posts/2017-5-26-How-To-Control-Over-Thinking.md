@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: How to control Over-Thinking
 ---
 
