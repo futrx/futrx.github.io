@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 20px/1.4 $garamond;
+  font: 22px/1.4 $garamond;
   color: $darkGray;
 }
 
@@ -66,6 +66,9 @@ h4 {
 
 p {
   margin: 20px 0;
+  @include mobile {
+    font-size: 90%;
+  }
 }
 
 a {
