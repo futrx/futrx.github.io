@@ -6,6 +6,8 @@ permalink: /about/
 
 We are Awesome
 
-### Contact me
+### Contact Us
 
-http://t.me/xypnox
+- [@xypnox](http://t.me/xypnox)
+- [@evi1haxor](http://t.me/evi1haxor)
+- [@sgrmshrsm7](http://t.me/sgrmshrsm7)
