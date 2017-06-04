@@ -12,7 +12,7 @@ The most obvious way to improve yourself is through controlling yourself. Quite 
 Lets be honest; Every single human thinks about future. We all indulge our brain power in thinking about what can happen. Its not bad at all. We are better prepared to deal with something we expect to happen than the unexpected.
 
 > “The unexamined life is not worth living” - Socrates
- 
+
 
 But, like every thing else, thinking should be done in a limit. And exceeding that limit harms more than benefits oneself.
 
@@ -29,7 +29,7 @@ The second and perhaps the most important thing to prevent thinking nonsense is 
 
 You have always suspected your neighbor's cat to be a very nasty creature. You have been nurturing disdain for the from the very beginning.
 
-you come home tired from evening walk. And find that some canine creature has excreted in your garden. You are outraged. _You outright assume that this is the act of the neighbor cat_. (**Mistake 1**)
+You come home tired from evening walk. And find that some canine creature has excreted in your garden. You are outraged. _You outright assume that this is the act of the neighbor cat_. (**Mistake 1**)
 
 _Then you storm straight at your neighbor's home; neglecting the fact that the excreted material is far more than what a cat can excrete._ (**Mistake 2**) But you assume the neighbor's cat to be a nasty demon and hence a very obese cat.
 
