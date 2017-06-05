@@ -5,34 +5,34 @@ comments: false
 ---
 Lemme brief this all in an conversation....
 
-```
-
-°Interviewer: Why do we trust science?!
-
-•Scientist: We want to make sense of the nature and science its too unfathomable that everything was once crunched into something smaller than an atom!
-
-°Interviewer:(interrupts) But you don't know that...
-
-•Scientist:(hesitates) well....
-
-°Interviewer:(interrupts) You're just believing in Stephen Hawking and that's matter of faith in his abilities.
-
-•Scientist: Yea....well....yeas....
-
-°Interviewer: You don't know it yourself, you're accepting that 'cause someone told you.
-
-•Scientist: Yeah, well.... science is constantly proven. If you take all fictions and all holy books and destroy them, after thousand years they won't come as it was. But if you take all facts and science books and destroy them, they shall come as they were.....
-
-°Interviewer: Yeas ......
-
-•Scientist: ...cause they'd been proven, their results won't change ...
-
-°Interviewer: Yeah! That's true...that's really true...
-
-•Scientist: If you make a boat using science it'll float. If you make an aeroplane using science, it'll fly.... they'll work....all science magic.....Bitches!
 
 
-```
+>°Interviewer: Why do we trust science?!
+>
+>•Scientist: We want to make sense of the nature and science its too unfathomable that everything was once crunched into something smaller than an atom!
+>
+>°Interviewer:(interrupts) But you don't know that...
+>
+>•Scientist:(hesitates) well....
+>
+>°Interviewer:(interrupts) You're just believing in Stephen Hawking and that's matter of faith in his abilities.
+>
+>•Scientist: Yea....well....yeas....
+>
+>°Interviewer: You don't know it yourself, you're accepting that 'cause someone told you.
+>
+>•Scientist: Yeah, well.... science is constantly proven. If you take all fictions and all holy books and destroy them, after thousand years they won't come as it was. But if you take all facts and science books and destroy them, they shall come as they were.....
+>
+>°Interviewer: Yeas ......
+>
+>•Scientist: ...cause they'd been proven, their results won't change ...
+>
+>°Interviewer: Yeah! That's true...that's really true...
+>
+>•Scientist: If you make a boat using science it'll float. If you make an aeroplane using science, it'll fly.... they'll work....all science magic.....Bitches!
+
+
+
 
 Science has brought us this far. And I believe we could have been far more ahead iff they haven't corrupted the mankind from their illogical deities. And here we highbrows has immense feeling of rue to them.. But here we extricate all our grieves to the devil and promise you all to bestow the wisdom to its charm.
 
